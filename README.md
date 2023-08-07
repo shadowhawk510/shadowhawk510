@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shadowhawk510
+- 👋 Hi, I’m Wakefield Taylor
 - 👀 I’m interested in ... Developing amazing products
 - 🌱 I’m currently learning ... python, node.js
 - 💞️ I’m looking to collaborate on ... A project to help humanitysing AI
