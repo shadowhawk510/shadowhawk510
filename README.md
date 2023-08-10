@@ -11,8 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [http://184.154.251.37/](http://184.154.251.37/)
 
-- 📝 I regularly write articles on [#100devs](#1000
-- devs)
+- 📝 I regularly write articles on [#100devs](#100 - devs)
 
 - 💬 Ask me about **Python, PHP, HTML, CSS**
 
