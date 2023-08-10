@@ -11,7 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [http://184.154.251.37/](http://184.154.251.37/)
 
-- 📝 I regularly write articles on [#1000devs](#1000devs)
+- 📝 I regularly write articles on [#100devs](#1000
+- devs)
 
 - 💬 Ask me about **Python, PHP, HTML, CSS**
 
@@ -19,7 +20,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/wakefield-taylor](www.linkedin.com/in/wakefield-taylor)
 
-- ⚡ Fun fact **I grow weed**
+- ⚡ Fun fact **I grow raise great danes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
