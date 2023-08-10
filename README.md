@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wakefield Taylor</h1>
-<h3 align="center">A motivated fullstack developer from Oakland,Ca</h3>
+<h3 align="center">A motivated fullstack developer from Oakland, Ca</h3>
 
 - 🔭 I’m currently working on **Saleforce Development**
 
